@@ -4,3 +4,4 @@ python-telegram-bot
 smartapi-python
 pyotp
 logzero
+websocket-client
